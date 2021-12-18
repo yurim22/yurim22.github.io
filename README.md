@@ -1,5 +1,5 @@
 <h1 align="center">
-  Zoomkoding Gatsby Blog
+  🎉 Yurim Blog 🎉
 </h1>
 
 <p align="center">
@@ -10,14 +10,12 @@
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" />
 </p>
 
-**Demo Websites**: [**English**](https://zoomkoding.netlify.app) | [**Korean**](https://www.zoomkoding.com)
-
-[**English README.md**](https://github.com/zoomkoding/zoomkoding-gatsby-blog/blob/master/README.en.md)
+**Demo Websites**: [**YULOG**](https://yurim22.github.io/)
 
 ## 👋 소개
 
-블로그를 직접 운영하면서 조금씩 그려봤던 이상적인 개발 블로그 테마를 Gatsby를 통해 만들어보게 되었습니다.  
-이 테마가 블로그를 운영하고자 하시는 분들에게 자신의 이야기를 잘 담을 수 있는 공간이 되었으면 좋겠습니다.🙌
+zoomKoding님께서 제작하신 gatsby 블로그 테마를 기반으로 블로그 제작을 했습니다.
+[테마 repo 바로가기](hhttps://github.com/zoomkoding/zoomkoding-gatsby-blog)
 
 블로그 테마가 맘에 드셨다면 아래 과정을 통해 자신의 블로그를 만들어보시길 바랍니다!
 
