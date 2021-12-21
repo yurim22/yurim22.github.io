@@ -15,7 +15,7 @@
 ## 👋 소개
 
 zoomKoding님께서 제작하신 gatsby 블로그 테마를 기반으로 블로그 제작을 했습니다.
-[테마 repo 바로가기](hhttps://github.com/zoomkoding/zoomkoding-gatsby-blog)
+[테마 repo 바로가기](https://github.com/zoomkoding/zoomkoding-gatsby-blog)
 
 블로그 테마가 맘에 드셨다면 아래 과정을 통해 자신의 블로그를 만들어보시길 바랍니다!
 
