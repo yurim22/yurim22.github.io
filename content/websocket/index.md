@@ -1,3 +1,12 @@
+---
+emoji: 🍄
+title: '웹 브라우저에서의 양방향 통신'
+date: '2022-03-22 23:00:00'
+author: 서유림
+tags: websocket
+categories: networks 
+---
+
 ## 웹 브라우저에서의 양방향 통신
 
 ### ⚠️ 기존 http 프로토콜의 한계
